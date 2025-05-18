@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Y'all can put customized colors or font  here */
+@theme{
+  --color-primary: #0C1713
+}
